@@ -11,7 +11,7 @@ I'm passioante about solving real world problems with code and eager to contribu
 
 
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
+💬 Ask me anything, I will be more than happy to help  :D
 
 
 # 💻 Tech Stack:
